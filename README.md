@@ -17,3 +17,8 @@ I'm a senior at Loras College studying **Math**, **Computer Science**, and **Dat
 - **LinkedIn**: [Meredith Koenen](meredith-koenen-0659532b9)
 - **Email**: meredith.koenen@loras.edu
 - **Portfolio**: [Coming Soon - Spring 2027!]
+
+## ⚡ Fun Facts
+- I have a pet bunny.
+- I love staying active by lifting, playing basketball, and running.
+- Some of my hobbies include reading, doing puzzles, and spending time with friends and family.
