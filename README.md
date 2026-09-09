@@ -12,3 +12,8 @@ I'm a senior at Loras College studying **Math**, **Computer Science**, and **Dat
 - Deep Fake Detection model as part of my Data Science Capstone project
 - Creating a personal portfolio to showcase my projects
 - Contributing documentation improvements to open source projects
+
+## 📫 Let's Connect
+- **LinkedIn**: [Meredith Koenen](meredith-koenen-0659532b9)
+- **Email**: meredith.koenen@loras.edu
+- **Portfolio**: [Coming Soon - Spring 2027!]
